@@ -1,6 +1,6 @@
 # USDCHF 1m OHLCV Forex Historical Data — Free Sample
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-8_032_248_rows-blue)](https://ork.ad/) [![Updated](https://img.shields.io/badge/weekly_update-every_Sunday-green)]() [![Full data on ork.ad](https://img.shields.io/badge/download-ork.ad-orange)](https://ork.ad/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Dataset rows](https://img.shields.io/badge/full_dataset-8_038_037_rows-blue)](https://ork.ad/) [![Updated](https://img.shields.io/badge/weekly_update-every_Sunday-green)]() [![Full data on ork.ad](https://img.shields.io/badge/download-ork.ad-orange)](https://ork.ad/)
 
 ### → [**Download the full USDCHF dataset on ork.ad**](https://ork.ad/)
 
@@ -24,11 +24,11 @@
 - **Ultra high-quality 1-minute OHLCV** for **US Dollar / Swiss Franc** (Forex)
 - **24/5 FX liquidity with Asian, European and US sessions — not limited to US market hours**
 - **Clean CSV schema** — `time, open, high, low, close, volume` (no gaps in formatting)
-- **Free evaluation sample** on GitHub (`1m` only) · **13 timeframes** on [ork.ad](https://ork.ad/) · **8,032,248** `1m` rows in the full archive
+- **Free evaluation sample** on GitHub (`1m` only) · **13 timeframes** on [ork.ad](https://ork.ad/) · **8,038,037** `1m` rows in the full archive
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `USDCHF_1m.csv` (179,722 rows, `2025-12-26` → `2026-06-26`). **Full archive on [ork.ad](https://ork.ad/)** — **8,032,248** `1m` rows (~457.45 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2004-04-18` → `2026-06-26`.
+> **Sample on GitHub** · `USDCHF_1m.csv` (180,404 rows, `2026-01-04` → `2026-07-02`). **Full archive on [ork.ad](https://ork.ad/)** — **8,038,037** `1m` rows (~457.77 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2004-04-18` → `2026-07-02`.
 
 ## Download sample
 
@@ -44,9 +44,9 @@ Interactive chart & stats: **[https://ork-ad.github.io/usdchf-1m-ohlcv-forex-his
 |---|--:|---|
 | Instrument | US Dollar / Swiss Franc · Forex | US Dollar / Swiss Franc · Forex |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
-| 1m rows | 179,722 | **8,032,248** |
-| Size | 9.98 MB | ~457.45 MB |
-| Period | `2025-12-26` → `2026-06-26` | `2004-04-18` → `2026-06-26` |
+| 1m rows | 180,404 | **8,038,037** |
+| Size | 10.69 MB | ~457.77 MB |
+| Period | `2026-01-04` → `2026-07-02` | `2004-04-18` → `2026-07-02` |
 | File | `USDCHF_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
 
@@ -73,21 +73,21 @@ First and latest rows from the GitHub sample **`USDCHF_1m.csv`**:
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2025-12-26T20:57:00Z | 0.78906 | 0.78911 | 0.78904 | 0.78908 | 246 |
-| 2025-12-26T20:58:00Z | 0.78908 | 0.78914 | 0.78908 | 0.78912 | 303 |
-| 2025-12-26T20:59:00Z | 0.78912 | 0.78913 | 0.78901 | 0.78903 | 425 |
-| 2025-12-26T21:00:00Z | 0.78903 | 0.78913 | 0.78903 | 0.78905 | 182 |
-| 2025-12-26T21:01:00Z | 0.78905 | 0.78906 | 0.78903 | 0.78905 | 47 |
+| 2026-01-04T22:05:00Z | 0.791858 | 0.791858 | 0.790928 | 0.790988 | 3 |
+| 2026-01-04T22:06:00Z | 0.790988 | 0.791198 | 0.790978 | 0.791168 | 8 |
+| 2026-01-04T22:07:00Z | 0.791168 | 0.791648 | 0.791128 | 0.791648 | 12 |
+| 2026-01-04T22:08:00Z | 0.791648 | 0.791648 | 0.791288 | 0.791288 | 1 |
+| 2026-01-04T22:10:00Z | 0.791288 | 0.791358 | 0.790858 | 0.790878 | 29 |
 
 **Last rows**
 
 | time | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
 | time | open | high | low | close | volume |
-| 2026-06-26T20:53:00Z | 0.80977 | 0.80995 | 0.80977 | 0.80991 | 66.00 |
-| 2026-06-26T20:54:00Z | 0.80991 | 0.80998 | 0.80983 | 0.80997 | 66.00 |
-| 2026-06-26T20:55:00Z | 0.80997 | 0.81001 | 0.80933 | 0.80987 | 133.00 |
-| 2026-06-26T20:56:00Z | 0.80987 | 0.8099 | 0.80906 | 0.80968 | 71.00 |
+| 2026-07-02T22:25:00Z | 0.80357 | 0.80359 | 0.80353 | 0.80357 | 25.00 |
+| 2026-07-02T22:26:00Z | 0.80357 | 0.80366 | 0.80357 | 0.80366 | 33.00 |
+| 2026-07-02T22:27:00Z | 0.80366 | 0.80366 | 0.80359 | 0.8036 | 19.00 |
+| 2026-07-02T22:28:00Z | 0.8036 | 0.80365 | 0.8036 | 0.80363 | 20.00 |
 
 ## Schema
 
@@ -145,9 +145,9 @@ print(pf.stats())
 
 ## Download full data
 
-The complete **USDCHF** archive on **[ork.ad](https://ork.ad/)** includes **13 OHLCV timeframes** (`1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W`) — **8,032,248** rows at `1m`, plus all higher timeframes in the same ZIP.
+The complete **USDCHF** archive on **[ork.ad](https://ork.ad/)** includes **13 OHLCV timeframes** (`1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W`) — **8,038,037** rows at `1m`, plus all higher timeframes in the same ZIP.
 
 **[→ Get the full USDCHF dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · USDCHF 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
+*GetData · USDCHF 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-03 UTC*
